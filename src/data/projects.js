@@ -34,7 +34,7 @@ export const projects = [
     title: "QR Code Generator App",
     description: "A modern QR code generation application with customizable options and real-time preview functionality.",
     tech: ["HTML", "JavaScript", "CSS", "C#", "ASP.NET Core 6", "MySQL"],
-    demoLink: "https://qrcode-generator-app.vercel.app",
+    demoLink: "https://qrcodegeneratorapp.onrender.com/",
     github: "https://github.com/thecoolmaster137/QrCodeGeneratorApp",
     image: "/images/qrcode-generator.png",
     category: "Full Stack"
@@ -44,7 +44,7 @@ export const projects = [
     title: "GroupsHub API (Python)",
     description: "A Python-based API for group management and collaboration platform with advanced features.",
     tech: ["Python", "FastAPI", "SqlLite"],
-    demoLink: "https://groupshub-api.herokuapp.com",
+    demoLink: "https://groupshub-api-python.onrender.com/docs",
     github: "https://github.com/thecoolmaster137/GroupsHub_API_Python",
     image: "/images/groupshub-api.png",
     category: "Backend API"
@@ -54,7 +54,7 @@ export const projects = [
     title: "GroupsHub User Frontend (Python)",
     description: "User-facing frontend application for the GroupsHub platform built with Python web technologies.",
     tech: ["HTML", "CSS", "JavaScript","SCSS"],
-    demoLink: "https://groupshub-user.vercel.app",
+    demoLink: "https://groupshub-userfrontend-python.onrender.com/",
     github: "https://github.com/thecoolmaster137/GroupsHub_UserFrontEnd_Python",
     image: "/images/groupshub-user.png",
     category: "Frontend"
@@ -64,7 +64,7 @@ export const projects = [
     title: "GroupGodown Admin Frontend",
     description: "Administrative dashboard for GroupGodown system with comprehensive management features.",
     tech: ["React", "Node.js", "Material-UI", "Redux", "Vite"],
-    demoLink: "https://groupgodown-admin.vercel.app",
+    demoLink: "https://admin.groupgodown.com/",
     github: "https://github.com/thecoolmaster137/GroupGodownAdmin_Frontend",
     image: "/images/groupgodown-admin.png",
     category: "Frontend"
@@ -74,7 +74,7 @@ export const projects = [
     title: "GroupGodown API Backend",
     description: "Backend API for GroupGodown system providing robust data management and business logic.",
     tech: ["C#", "ASP.NET Core 6", "MySQL"],
-    demoLink: "https://groupgodown-api.herokuapp.com",
+    demoLink: "http://api.groupgodown.com/",
     github: "https://github.com/thecoolmaster137/GroupGodown_API_Backend",
     image: "/images/groupgodown-api.png",
     category: "Backend API"
@@ -84,7 +84,7 @@ export const projects = [
     title: "GroupGodown User Frontend",
     description: "User interface for GroupGodown platform with intuitive design and seamless user experience.",
     tech: ["React", "JavaScript", "Tailwind CSS", "Axios"],
-    demoLink: "https://groupgodown-user.vercel.app",
+    demoLink: "https://www.groupgodown.com/",
     github: "https://github.com/thecoolmaster137/GroupGodown_User_Frontend",
     image: "/images/groupgodown-user.png",
     category: "Frontend"
